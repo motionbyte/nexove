@@ -1,0 +1,9 @@
+# Local archive — legacy / unused site assets (not deployed)
+_trash/
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
